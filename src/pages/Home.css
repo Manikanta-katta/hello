@@ -1,0 +1,29 @@
+.content{
+  --background:url(C:\Users\ManikantaKatta\Desktop\Demo\public\assets\img\h.jpg)no-repeat center/cover fixed;
+}
+#ka{
+    position: relative;
+    width:500px;
+    height: 450px;
+    text-align: center;
+     margin-left: 650px;
+     margin-top: 200px;
+    
+}
+#ma{
+    padding-left: 70px;
+    padding-bottom: 18px;
+}
+#input1{
+    
+    border: solid black 1px;
+    border-radius: 9px;
+  width: 300px;
+ 
+}
+#input2{
+   
+    border: solid black 1px;
+    border-radius: 9px;
+    
+}
